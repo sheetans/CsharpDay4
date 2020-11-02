@@ -1,0 +1,7 @@
+E:\New folder\Online Training\C#\Day4\PrjCSharpday4\Inheritance\bin\Debug\Inheritance.exe.config
+E:\New folder\Online Training\C#\Day4\PrjCSharpday4\Inheritance\bin\Debug\Inheritance.exe
+E:\New folder\Online Training\C#\Day4\PrjCSharpday4\Inheritance\bin\Debug\Inheritance.pdb
+E:\New folder\Online Training\C#\Day4\PrjCSharpday4\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+E:\New folder\Online Training\C#\Day4\PrjCSharpday4\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+E:\New folder\Online Training\C#\Day4\PrjCSharpday4\Inheritance\obj\Debug\Inheritance.exe
+E:\New folder\Online Training\C#\Day4\PrjCSharpday4\Inheritance\obj\Debug\Inheritance.pdb
